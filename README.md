@@ -16,9 +16,9 @@ that structure lesson-by-lesson.
 SQLBolt/
 ├── README.md
 ├── lesson_01_select_queries/
-│ ├── notes.md
-│ ├── exercises.sql
-│ └── solutions.sql
+│   ├── notes.md
+│   ├── exercises.sql
+│   └── solutions.sql
 └── images/
 
 Each lesson contains:
