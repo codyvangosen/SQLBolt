@@ -13,6 +13,7 @@ that structure lesson-by-lesson.
 ---
 
 ## 📂 Repository Structure
+```text
 SQLBolt/
 ├── README.md
 ├── lesson_01_select_queries/
