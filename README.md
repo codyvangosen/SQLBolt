@@ -21,6 +21,7 @@ SQLBolt/
 │   └── solutions.sql
 └── images/
 
+
 Each lesson contains:
 - **notes.md** → My notes, takeaways, and clarifications in my own words  
 - **exercises.sql** → The lesson’s practice prompts  
