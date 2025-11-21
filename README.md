@@ -21,7 +21,7 @@ SQLBolt/
 │   ├── exercises.sql
 │   └── solutions.sql
 └── images/
-
+```
 
 
 Each lesson contains:
