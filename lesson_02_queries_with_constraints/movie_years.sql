@@ -1,0 +1,15 @@
+SELECT *
+FROM movies
+WHERE Id = 6;
+
+SELECT *
+FROM movies
+WHERE Year BETWEEN 2000 AND 2010;
+
+SELECT *
+FROM movies
+WHERE year NOT BETWEEN 2000 AND 2010;
+
+SELECT *
+FROM movies
+WHERE year <= 2003;
