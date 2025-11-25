@@ -19,8 +19,8 @@ SQLBolt/
 ├── lesson_01_select_queries/
 │   ├── notes.md
 │   ├── exercises.sql
-│   └── solutions.sql
-└── images/
+│   ├── solutions.sql
+|   └──images/
 ```
 
 Each lesson contains:
